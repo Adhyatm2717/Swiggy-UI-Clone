@@ -15,7 +15,7 @@ function Header() {
   return (
     <>
       <div
-        className="sidebar black-overlay w-full h-full fixed duration-500"
+        className="sidebar black-overlay w-full h-full fixed duration-500 z-[9999]"
         onClick={() => setToggle(false)}
         style={{
           opacity: toggle ? 1 : 0,
