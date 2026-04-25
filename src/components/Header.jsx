@@ -58,7 +58,7 @@ function Header() {
                 <div className="flex items-center pt-2">
                   <WiTime8 className="text-[20px]  text-gray-700" />
                   <div className="pl-2">
-                    <p className="font-bold text-gray-800">Aalo Paratha</p>
+                    <p className="font-bold text-gray-800">Aaloo Paratha</p>
                     <p className="text-gray-700 text-[12px]">
                       Taj Lake, Ratanda, Jodhpur, Rajasthan
                     </p>
@@ -94,6 +94,7 @@ function Header() {
             <li className="cursor-pointer text-[20px] flex items-center gap-3 hover:text-[#fc8019]">
               <MdLocalOffer className="text-[23px]"/>
               Offers
+              <sup className="text-[#fc8019]">New</sup>
             </li>
             <li className="cursor-pointer text-[20px] flex items-center gap-3 hover:text-[#fc8019]">
               <IoMdHelpCircle className="text-[23px]"/>
