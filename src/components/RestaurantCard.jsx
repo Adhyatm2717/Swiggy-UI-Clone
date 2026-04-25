@@ -13,7 +13,7 @@ const RestaurantCard = ({
   bankOffer
 }) => {
   return (
-    <div className="min-w-[260px] max-w-[260px] bg-white rounded-2xl shadow-sm hover:shadow-lg transition duration-300 overflow-hidden">
+    <div className="min-w-[260px] max-w-[260px] bg-white rounded-2xl shadow-sm hover:shadow-lg hover:scale-[1.05] transition-transform duration-300 overflow-hidden cursor-pointer">
 
       {/* Image */}
       <div className="relative">
