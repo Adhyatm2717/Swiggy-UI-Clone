@@ -4,7 +4,7 @@ A responsive and visually accurate frontend clone of the Swiggy food delivery pl
 
 ## ✨ Features
 
-- **Live Demo**: [Insert Deployed Link Here](https://your-deployed-link.com)
+- **Live Demo**: [Insert Deployed Link Here](https://swiggy-ui-clone-rust.vercel.app/)
 - **Header & Navigation**: Fixed navigation bar with a sliding sidebar overlay for search and location selection.
 - **Category Browsing**: Horizontal, scrollable list of food categories with smooth transition effects.
 - **Restaurant Showcase**: Beautifully aligned restaurant cards featuring standard and bank offers, ratings, and a hover zoom effect.
