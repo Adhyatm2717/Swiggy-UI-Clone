@@ -1,16 +1,48 @@
-# React + Vite
+# Swiggy UI Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and visually accurate frontend clone of the Swiggy food delivery platform, built with modern web technologies. This project focuses on recreating the pixel-perfect layout and interactions of the original application, including dynamic sidebars, smooth hover effects, and horizontal scrollable categories.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Header & Navigation**: Fixed navigation bar with a sliding sidebar overlay for search and location selection.
+- **Category Browsing**: Horizontal, scrollable list of food categories with smooth transition effects.
+- **Restaurant Showcase**: Beautifully aligned restaurant cards featuring standard and bank offers, ratings, and a hover zoom effect.
+- **Responsive Layout**: Designed to look great across different screen sizes, matching Swiggy's container sizing and padding.
+- **Modern UI Elements**: Custom scrollbars, glassmorphism overlays, and smooth CSS transitions.
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js**: UI component architecture.
+- **Vite**: Ultra-fast build tool and development server.
+- **Tailwind CSS**: Utility-first CSS framework for rapid styling.
+- **React Icons**: Scalable vector icons for navigation and UI elements.
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+To run this project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Adhyatm2717/Swiggy-UI-Clone.git
+   cd Swiggy-UI-Clone
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server:**
+   ```bash
+   npm run dev
+   ```
+
+4. Open your browser and navigate to the URL provided in your terminal (typically `http://localhost:5173`).
+
+## 🎨 Screenshots
+
+*(You can add screenshots of your project here by uploading them to the `public/images` folder or providing external links.)*
+
+## 📝 License
+
+This project is open-source and available under the MIT License.
